@@ -1,6 +1,6 @@
 <?php
 // FRONTEND CONFIG
-//Test
+//Test 1
 // HTTP
 define('HTTP_SERVER', 'http://localhost/banhang/');
 
