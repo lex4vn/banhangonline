@@ -1,0 +1,27 @@
+a:1:{i:0;a:6:{s:6:"prefix";s:0:"";s:9:"layout_id";s:1:"1";s:8:"position";s:11:"mass_bottom";s:6:"status";s:1:"1";s:10:"sort_order";i:1;s:15:"pavreassurances";a:4:{i:1;a:4:{s:11:"select_icon";s:8:"fa-truck";s:5:"title";a:2:{i:1;s:13:"Free Shipping";i:2;s:13:"Free Shipping";}s:7:"caption";a:2:{i:1;s:39:"&lt;p&gt;One order over $99&lt;/p&gt;
+";i:2;s:39:"&lt;p&gt;One order over $99&lt;/p&gt;
+";}s:6:"detail";a:2:{i:1;s:160:"&lt;h4&gt;Free Shipping&lt;/h4&gt;										
+&lt;p&gt;One order over $99&lt;/p&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit&lt;/p&gt;";i:2;s:160:"&lt;h4&gt;Free Shipping&lt;/h4&gt;										
+&lt;p&gt;One order over $99&lt;/p&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit&lt;/p&gt;";}}i:2;a:4:{s:11:"select_icon";s:10:"fa-dropbox";s:5:"title";a:2:{i:1;s:18:"Special gift cards";i:2;s:18:"Special gift cards";}s:7:"caption";a:2:{i:1;s:42:"&lt;p&gt;Give the perfect gift&lt;/p&gt;
+";i:2;s:42:"&lt;p&gt;Give the perfect gift&lt;/p&gt;
+";}s:6:"detail";a:2:{i:1;s:170:"&lt;h4&gt;Special gift cards&lt;/h4&gt;										
+&lt;p&gt;Give the perfect gift&lt;/p&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit&lt;/p&gt;
+";i:2;s:168:"&lt;h4&gt;Special gift cards&lt;/h4&gt;										
+&lt;p&gt;Give the perfect gift&lt;/p&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit&lt;/p&gt;";}}i:3;a:4:{s:11:"select_icon";s:13:"fa-calendar-o";s:5:"title";a:2:{i:1;s:15:"Daily promotion";i:2;s:15:"Daily promotion";}s:7:"caption";a:2:{i:1;s:45:"&lt;p&gt;Set up perspiciatis unde&lt;/p&gt;
+";i:2;s:45:"&lt;p&gt;Set up perspiciatis unde&lt;/p&gt;
+";}s:6:"detail";a:2:{i:1;s:168:"&lt;h4&gt;Daily promotion&lt;/h4&gt;										
+&lt;p&gt;Set up perspiciatis unde&lt;/p&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit&lt;/p&gt;";i:2;s:168:"&lt;h4&gt;Daily promotion&lt;/h4&gt;										
+&lt;p&gt;Set up perspiciatis unde&lt;/p&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit&lt;/p&gt;";}}i:4;a:4:{s:11:"select_icon";s:13:"fa-comments-o";s:5:"title";a:2:{i:1;s:18:"24/7 Customer care";i:2;s:18:"24/7 Customer care";}s:7:"caption";a:2:{i:1;s:43:"&lt;p&gt;Hours: 14.0987 654 320&lt;/p&gt;
+";i:2;s:43:"&lt;p&gt;Hours: 14.0987 654 320&lt;/p&gt;
+";}s:6:"detail";a:2:{i:1;s:171:"&lt;h4&gt;24/7 Customer care&lt;/h4&gt;										
+&lt;p&gt;Hours: 14.0987 654 320&lt;/p&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit&lt;/p&gt;
+";i:2;s:169:"&lt;h4&gt;24/7 Customer care&lt;/h4&gt;										
+&lt;p&gt;Hours: 14.0987 654 320&lt;/p&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit&lt;/p&gt;";}}}}}

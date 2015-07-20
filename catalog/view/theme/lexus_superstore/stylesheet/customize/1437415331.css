@@ -1,0 +1,37 @@
+
+/* customize for body */ 
+
+/* customize for topbar */ 
+
+/* customize for header-main */ 
+
+/* customize for pav-mainnav */ 
+.pav-megamenu .navbar-default { background-color:#0053a0} 
+.pav-megamenu .navbar-nav &gt; li &gt; a { color:#ffffff} 
+.pav-megamenu .navbar-nav &gt; li &gt; a:hover { color:#ffdc14} 
+
+/* customize for columns */ 
+
+/* customize for pav-verticalmenu */ 
+#pav-verticalmenu .box-heading { background-color:#0053a0} 
+#pav-verticalmenu .box-heading { color:#f7ec13} 
+
+				#pav-verticalmenu .navbar-nav .menu-icon .menu-title
+			 { color:#0053a0} 
+
+				#pav-verticalmenu .verticalmenu li a:hover
+			 { color:#e8d615} 
+
+				#pav-verticalmenu .box-content
+			 { border-color:#0053a0} 
+
+/* customize for footer-center */ 
+#footer .footer-top .custom { background-color:#dbbf77} 
+#footer { background-color:#a89090} 
+#footer { background-image:url(../../image/pattern/pattern8.png)} 
+
+				#footer,#footer .box .box-heading,#footer .box.pavgooglemap .box-heading,#powered				
+			 { color:#333333} 
+#footer a { color:#ebca75} 
+
+/* customize for product */ 

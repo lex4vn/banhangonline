@@ -1,0 +1,1 @@
+a:1:{i:1;a:9:{s:9:"layout_id";s:5:"99999";s:8:"position";s:14:"call_by_search";s:6:"status";s:1:"1";s:10:"sort_order";s:1:"1";s:5:"class";s:5:"class";s:5:"limit";s:1:"5";s:13:"show_category";s:1:"1";s:10:"show_image";s:1:"1";s:10:"show_price";s:1:"1";}}

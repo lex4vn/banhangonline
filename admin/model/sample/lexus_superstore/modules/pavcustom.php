@@ -1,0 +1,123 @@
+a:7:{i:1;a:8:{s:12:"module_title";a:2:{i:1;s:11:"INFORMATION";i:2;s:11:"INFORMATION";}s:11:"description";a:2:{i:1;s:1010:"&lt;ul class=&quot;list&quot;&gt;
+	&lt;li&gt;&lt;a href=&quot;index.php?route=information/information&amp;amp;information_id=4&quot;&gt;&lt;i class=&quot;fa fa-stop&quot;&gt;&amp;nbsp;&lt;/i&gt;About Us&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;index.php?route=information/information&amp;amp;information_id=6&quot;&gt;&lt;i class=&quot;fa fa-stop&quot;&gt;&amp;nbsp;&lt;/i&gt;Delivery Information&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;index.php?route=information/information&amp;amp;information_id=3&quot;&gt;&lt;i class=&quot;fa fa-stop&quot;&gt;&amp;nbsp;&lt;/i&gt;Privacy Policy&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;index.php?route=information/information&amp;amp;information_id=5&quot;&gt;&lt;i class=&quot;fa fa-stop&quot;&gt;&amp;nbsp;&lt;/i&gt;Terms &amp;amp; Conditions&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;index.php?route=information/sitemap&quot;&gt;&lt;i class=&quot;fa fa-stop&quot;&gt;&amp;nbsp;&lt;/i&gt;Site Map&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+";i:2;s:1010:"&lt;ul class=&quot;list&quot;&gt;
+	&lt;li&gt;&lt;a href=&quot;index.php?route=information/information&amp;amp;information_id=4&quot;&gt;&lt;i class=&quot;fa fa-stop&quot;&gt;&amp;nbsp;&lt;/i&gt;About Us&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;index.php?route=information/information&amp;amp;information_id=6&quot;&gt;&lt;i class=&quot;fa fa-stop&quot;&gt;&amp;nbsp;&lt;/i&gt;Delivery Information&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;index.php?route=information/information&amp;amp;information_id=3&quot;&gt;&lt;i class=&quot;fa fa-stop&quot;&gt;&amp;nbsp;&lt;/i&gt;Privacy Policy&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;index.php?route=information/information&amp;amp;information_id=5&quot;&gt;&lt;i class=&quot;fa fa-stop&quot;&gt;&amp;nbsp;&lt;/i&gt;Terms &amp;amp; Conditions&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;index.php?route=information/sitemap&quot;&gt;&lt;i class=&quot;fa fa-stop&quot;&gt;&amp;nbsp;&lt;/i&gt;Site Map&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+";}s:10:"show_title";s:1:"1";s:9:"layout_id";s:5:"99999";s:8:"position";s:13:"footer_center";s:6:"status";s:1:"1";s:12:"module_class";s:0:"";s:10:"sort_order";s:1:"1";}i:2;a:8:{s:12:"module_title";a:2:{i:1;s:10:"MY ACCOUNT";i:2;s:10:"MY ACCOUNT";}s:11:"description";a:2:{i:1;s:835:"&lt;ul class=&quot;list&quot;&gt;
+	&lt;li&gt;&lt;a href=&quot;index.php?route=account/account&quot;&gt;&lt;i class=&quot;fa fa-stop&quot;&gt;&amp;nbsp;&lt;/i&gt;My Account&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;index.php?route=account/order&quot;&gt;&lt;i class=&quot;fa fa-stop&quot;&gt;&amp;nbsp;&lt;/i&gt;Order History&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;index.php?route=account/wishlist&quot;&gt;&lt;i class=&quot;fa fa-stop&quot;&gt;&amp;nbsp;&lt;/i&gt;Wish List&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;index.php?route=account/newsletter&quot;&gt;&lt;i class=&quot;fa fa-stop&quot;&gt;&amp;nbsp;&lt;/i&gt;Newsletter&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;?route=pavblog/blogs&quot;&gt;&lt;i class=&quot;fa fa-stop&quot;&gt;&amp;nbsp;&lt;/i&gt;Blog&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+";i:2;s:835:"&lt;ul class=&quot;list&quot;&gt;
+	&lt;li&gt;&lt;a href=&quot;index.php?route=account/account&quot;&gt;&lt;i class=&quot;fa fa-stop&quot;&gt;&amp;nbsp;&lt;/i&gt;My Account&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;index.php?route=account/order&quot;&gt;&lt;i class=&quot;fa fa-stop&quot;&gt;&amp;nbsp;&lt;/i&gt;Order History&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;index.php?route=account/wishlist&quot;&gt;&lt;i class=&quot;fa fa-stop&quot;&gt;&amp;nbsp;&lt;/i&gt;Wish List&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;index.php?route=account/newsletter&quot;&gt;&lt;i class=&quot;fa fa-stop&quot;&gt;&amp;nbsp;&lt;/i&gt;Newsletter&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;?route=pavblog/blogs&quot;&gt;&lt;i class=&quot;fa fa-stop&quot;&gt;&amp;nbsp;&lt;/i&gt;Blog&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+";}s:10:"show_title";s:1:"1";s:9:"layout_id";s:5:"99999";s:8:"position";s:13:"footer_center";s:6:"status";s:1:"1";s:12:"module_class";s:0:"";s:10:"sort_order";s:1:"2";}i:3;a:8:{s:12:"module_title";a:2:{i:1;s:11:"About Store";i:2;s:11:"About Store";}s:11:"description";a:2:{i:1;s:431:"&lt;p&gt;Duis at nisl quis quam condimentum pulvinar. Quisque euismod convallis eros, quis lacinia enim rhoncus sed.&lt;/p&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;&lt;span class=&quot;fa fa-phone&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;span&gt;Phone: +01 888 (000) 1234&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span class=&quot;fa fa-envelope&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;span&gt;Email: anh@gmail.com&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+";i:2;s:431:"&lt;p&gt;Duis at nisl quis quam condimentum pulvinar. Quisque euismod convallis eros, quis lacinia enim rhoncus sed.&lt;/p&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;&lt;span class=&quot;fa fa-phone&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;span&gt;Phone: +01 888 (000) 1234&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span class=&quot;fa fa-envelope&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;span&gt;Email: anh@gmail.com&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+";}s:10:"show_title";s:1:"1";s:9:"layout_id";s:5:"99999";s:8:"position";s:13:"footer_center";s:6:"status";s:1:"1";s:12:"module_class";s:0:"";s:10:"sort_order";i:4;}i:4;a:8:{s:12:"module_title";a:2:{i:1;s:21:"Service &amp; Support";i:2;s:21:"Service &amp; Support";}s:11:"description";a:2:{i:1;s:739:"&lt;ul class=&quot;list&quot;&gt;
+	&lt;li class=&quot;first&quot;&gt;&lt;a href=&quot;index.php?route=product/manufacturer&quot;&gt;&lt;i class=&quot;fa fa-stop&quot;&gt;&amp;nbsp;&lt;/i&gt;Brands&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;index.php?route=account/voucher&quot;&gt;&lt;i class=&quot;fa fa-stop&quot;&gt;&amp;nbsp;&lt;/i&gt;Gift Vouchers&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;index.php?route=affiliate/account&quot;&gt;&lt;i class=&quot;fa fa-stop&quot;&gt;&amp;nbsp;&lt;/i&gt;Affiliates&lt;/a&gt;&lt;/li&gt;
+	&lt;li class=&quot;last&quot;&gt;&lt;a href=&quot;index.php?route=product/special&quot;&gt;&lt;i class=&quot;fa fa-stop&quot;&gt;&amp;nbsp;&lt;/i&gt;Specials&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+";i:2;s:739:"&lt;ul class=&quot;list&quot;&gt;
+	&lt;li class=&quot;first&quot;&gt;&lt;a href=&quot;index.php?route=product/manufacturer&quot;&gt;&lt;i class=&quot;fa fa-stop&quot;&gt;&amp;nbsp;&lt;/i&gt;Brands&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;index.php?route=account/voucher&quot;&gt;&lt;i class=&quot;fa fa-stop&quot;&gt;&amp;nbsp;&lt;/i&gt;Gift Vouchers&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;index.php?route=affiliate/account&quot;&gt;&lt;i class=&quot;fa fa-stop&quot;&gt;&amp;nbsp;&lt;/i&gt;Affiliates&lt;/a&gt;&lt;/li&gt;
+	&lt;li class=&quot;last&quot;&gt;&lt;a href=&quot;index.php?route=product/special&quot;&gt;&lt;i class=&quot;fa fa-stop&quot;&gt;&amp;nbsp;&lt;/i&gt;Specials&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+";}s:10:"show_title";s:1:"1";s:9:"layout_id";s:5:"99999";s:8:"position";s:13:"footer_center";s:6:"status";s:1:"1";s:12:"module_class";s:0:"";s:10:"sort_order";s:1:"3";}i:5;a:8:{s:12:"module_title";a:2:{i:1;s:6:"social";i:2;s:6:"social";}s:11:"description";a:2:{i:1;s:637:"&lt;div class=&quot;social&quot;&gt;&lt;span&gt;Follow us on&lt;/span&gt;
+&lt;ul&gt;
+	&lt;li&gt;&lt;a class=&quot;fa fa-facebook&quot; href=&quot;#&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a class=&quot;fa fa-twitter&quot; href=&quot;#&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a class=&quot;fa fa-google-plus&quot; href=&quot;#&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a class=&quot;fa fa-pinterest&quot; href=&quot;#&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a class=&quot;fa fa-rss&quot; href=&quot;#&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+";i:2;s:637:"&lt;div class=&quot;social&quot;&gt;&lt;span&gt;Follow us on&lt;/span&gt;
+&lt;ul&gt;
+	&lt;li&gt;&lt;a class=&quot;fa fa-facebook&quot; href=&quot;#&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a class=&quot;fa fa-twitter&quot; href=&quot;#&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a class=&quot;fa fa-google-plus&quot; href=&quot;#&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a class=&quot;fa fa-pinterest&quot; href=&quot;#&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a class=&quot;fa fa-rss&quot; href=&quot;#&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+";}s:10:"show_title";s:1:"0";s:9:"layout_id";s:5:"99999";s:8:"position";s:10:"footer_top";s:6:"status";s:1:"1";s:12:"module_class";s:0:"";s:10:"sort_order";s:1:"2";}i:6;a:8:{s:12:"module_title";a:2:{i:1;s:7:"banner1";i:2;s:7:"banner1";}s:11:"description";a:2:{i:1;s:1727:"&lt;div class=&quot;row hidden-xs&quot;&gt;
+&lt;div class=&quot;col-lg-3 col-md-3 col-sm-3&quot;&gt;
+&lt;div class=&quot;effect&quot;&gt;&lt;a class=&quot;overlay&quot; href=&quot;#&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;img alt=&quot;&quot; class=&quot;img-responsive img-banner&quot; src=&quot;image/data/banner/banner1.jpg&quot; /&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;col-lg-3 col-md-3 col-sm-3&quot;&gt;
+&lt;div class=&quot;effect&quot;&gt;&lt;a class=&quot;overlay&quot; href=&quot;#&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;img alt=&quot;&quot; class=&quot;img-responsive img-banner&quot; src=&quot;image/data/banner/banner2.jpg&quot; /&gt;
+&lt;p&gt;&lt;a class=&quot;btn-shop-now&quot; href=&quot;#&quot;&gt;&lt;span&gt;Shop now&lt;/span&gt;&lt;img alt=&quot;&quot; src=&quot;image/data/banner/arrow.png&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;col-lg-3 col-md-3 col-sm-3&quot;&gt;
+&lt;div class=&quot;effect&quot;&gt;&lt;a class=&quot;overlay&quot; href=&quot;#&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;img alt=&quot;&quot; class=&quot;img-banner img-responsive&quot; src=&quot;image/data/banner/banner3.jpg&quot; /&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;col-lg-3 col-md-3 col-sm-3&quot;&gt;
+&lt;div class=&quot;effect&quot;&gt;&lt;a class=&quot;overlay&quot; href=&quot;#&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;img alt=&quot;&quot; class=&quot;img-banner img-responsive&quot; src=&quot;image/data/banner/banner4.jpg&quot; /&gt;
+&lt;p&gt;&lt;a class=&quot;btn-shop-now&quot; href=&quot;#&quot;&gt;&lt;span&gt;Shop now&lt;/span&gt;&lt;img alt=&quot;&quot; src=&quot;image/data/banner/arrow.png&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+";i:2;s:1727:"&lt;div class=&quot;row hidden-xs&quot;&gt;
+&lt;div class=&quot;col-lg-3 col-md-3 col-sm-3&quot;&gt;
+&lt;div class=&quot;effect&quot;&gt;&lt;a class=&quot;overlay&quot; href=&quot;#&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;img alt=&quot;&quot; class=&quot;img-responsive img-banner&quot; src=&quot;image/data/banner/banner1.jpg&quot; /&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;col-lg-3 col-md-3 col-sm-3&quot;&gt;
+&lt;div class=&quot;effect&quot;&gt;&lt;a class=&quot;overlay&quot; href=&quot;#&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;img alt=&quot;&quot; class=&quot;img-responsive img-banner&quot; src=&quot;image/data/banner/banner2.jpg&quot; /&gt;
+&lt;p&gt;&lt;a class=&quot;btn-shop-now&quot; href=&quot;#&quot;&gt;&lt;span&gt;Shop now&lt;/span&gt;&lt;img alt=&quot;&quot; src=&quot;image/data/banner/arrow.png&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;col-lg-3 col-md-3 col-sm-3&quot;&gt;
+&lt;div class=&quot;effect&quot;&gt;&lt;a class=&quot;overlay&quot; href=&quot;#&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;img alt=&quot;&quot; class=&quot;img-banner img-responsive&quot; src=&quot;image/data/banner/banner3.jpg&quot; /&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;col-lg-3 col-md-3 col-sm-3&quot;&gt;
+&lt;div class=&quot;effect&quot;&gt;&lt;a class=&quot;overlay&quot; href=&quot;#&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;img alt=&quot;&quot; class=&quot;img-banner img-responsive&quot; src=&quot;image/data/banner/banner4.jpg&quot; /&gt;
+&lt;p&gt;&lt;a class=&quot;btn-shop-now&quot; href=&quot;#&quot;&gt;&lt;span&gt;Shop now&lt;/span&gt;&lt;img alt=&quot;&quot; src=&quot;image/data/banner/arrow.png&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+";}s:10:"show_title";s:1:"0";s:9:"layout_id";s:1:"1";s:8:"position";s:11:"content_top";s:6:"status";s:1:"1";s:12:"module_class";s:0:"";s:10:"sort_order";s:1:"1";}i:8;a:8:{s:12:"module_title";a:2:{i:1;s:7:"banner3";i:2;s:7:"banner3";}s:11:"description";a:2:{i:1;s:643:"&lt;div class=&quot;banner-group hidden-xs hidden-sm&quot;&gt;
+&lt;div class=&quot;effect pull-left col-lg-5 col-sm-5&quot;&gt;&lt;a class=&quot;overlay&quot; href=&quot;#&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;img alt=&quot;&quot; class=&quot;img-banner img-responsive no-border-right&quot; src=&quot;image/data/banner/banner12.jpg&quot; /&gt;&lt;/div&gt;
+
+&lt;div class=&quot;effect pull-right col-lg-7 col-sm-7&quot;&gt;&lt;a class=&quot;overlay&quot; href=&quot;#&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;img alt=&quot;&quot; class=&quot;img-banner img-responsive&quot; src=&quot;image/data/banner/banner13.jpg&quot; /&gt;&lt;/div&gt;
+&lt;/div&gt;
+";i:2;s:643:"&lt;div class=&quot;banner-group hidden-xs hidden-sm&quot;&gt;
+&lt;div class=&quot;effect pull-left col-lg-5 col-sm-5&quot;&gt;&lt;a class=&quot;overlay&quot; href=&quot;#&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;img alt=&quot;&quot; class=&quot;img-banner img-responsive no-border-right&quot; src=&quot;image/data/banner/banner12.jpg&quot; /&gt;&lt;/div&gt;
+
+&lt;div class=&quot;effect pull-right col-lg-7 col-sm-7&quot;&gt;&lt;a class=&quot;overlay&quot; href=&quot;#&quot;&gt;&amp;nbsp;&lt;/a&gt;&lt;img alt=&quot;&quot; class=&quot;img-banner img-responsive&quot; src=&quot;image/data/banner/banner13.jpg&quot; /&gt;&lt;/div&gt;
+&lt;/div&gt;
+";}s:10:"show_title";s:1:"0";s:9:"layout_id";s:1:"1";s:8:"position";s:11:"content_top";s:6:"status";s:1:"1";s:12:"module_class";s:0:"";s:10:"sort_order";s:1:"3";}}
