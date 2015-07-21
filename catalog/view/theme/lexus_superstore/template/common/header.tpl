@@ -145,32 +145,19 @@ $('body').prepend('<iframe src="<?php echo $store; ?>" style="display: none;"></
 	<section id="page" class="offcanvas-pusher" role="main">
 		<header id="header">
 			<div id="topbar">
-				<div class="container">	
+				<div class="container">
 					<div class="show-desktop">
-						<div class="quick-access pull-left">
-							<div class="login links"><?php echo $header_hotline; ?></div>
+						<div class="quick-access">
+							<?php echo $header_hotline; ?>
 						</div>
-						<div class="quick-top-link pull-right">
-							<ul class="links pull-left">								
-								<li><a href="<?php echo $wishlist; ?>" id="wishlist-total"><i class="fa fa-list-alt"></i><?php echo $text_wishlist; ?></a></li>
-								<li><a href="<?php echo $account; ?>"><i class="fa fa-user"></i><?php echo $text_account; ?></a></li>
-								<li><a href="<?php echo $shopping_cart; ?>"><i class="fa fa-bookmark"></i><?php echo $text_shopping_cart; ?></a></li>
-								<li><a class="last" href="<?php echo $checkout; ?>"><i class="fa fa-share"></i><?php echo $text_checkout; ?></a></li>
-							</ul>	
-
-						</div>
-					</div>	
-
-					
-
+					</div>
 					<div class="show-mobile hidden-lg hidden-md">
-
 						<div class="quick-cart pull-left">
 							<div class="quickaccess-toggle">
-								<a href="<?php echo $shopping_cart; ?>"><i class="fa fa-shopping-cart"></i></a>	
+								<a href="<?php echo $shopping_cart; ?>"><i class="fa fa-shopping-cart"></i></a>
 							</div>
 						</div>
-						
+
 						<div class="quick-user pull-left">
 							<div class="quickaccess-toggle">
 								<i class="fa fa-user"></i>
@@ -188,21 +175,21 @@ $('body').prepend('<iframe src="<?php echo $store; ?>" style="display: none;"></
 
 						<div class="quick-access pull-left">
 							<div class="quickaccess-toggle">
-								<i class="fa fa-tasks"></i>															
-							</div>	
+								<i class="fa fa-tasks"></i>
+							</div>
 							<div class="inner-toggle">
-								<ul class="links">									
+								<ul class="links">
 									<li><a href="<?php echo $wishlist; ?>"><i class="fa fa-list-alt"></i><?php echo $text_wishlist; ?></a></li>
 									<li><a href="<?php echo $account; ?>"><i class="fa fa-user"></i><?php echo $text_account; ?></a></li>
 									<li><a class="last" href="<?php echo $checkout; ?>"><i class="fa fa-share"></i><?php echo $text_checkout; ?></a></li>
-								</ul>								
-							</div>						
-						</div>											
+								</ul>
+							</div>
+						</div>
 
 						<div class="support pull-left">
 							<div class="quickaccess-toggle">
-								<i class="fa fa-sun-o"></i>								
-							</div>						
+								<i class="fa fa-sun-o"></i>
+							</div>
 							<div class="inner-toggle quick-setting">
 								<div class="language">
 									<?php echo $language; ?>
@@ -210,7 +197,7 @@ $('body').prepend('<iframe src="<?php echo $store; ?>" style="display: none;"></
 								<div class="currency">
 									<?php echo $currency; ?>
 								</div>
-							</div>															
+							</div>
 						</div>
 
 
@@ -220,7 +207,7 @@ $('body').prepend('<iframe src="<?php echo $store; ?>" style="display: none;"></
 				</div>
 			</div>
 
-			<div id="header-main">	
+			<div id="header-main">
 				<div class="row">
 					<div class="container">
 						<div class="col-lg-3 col-md-3 col-sm-5 col-xs-12 logo inner">
