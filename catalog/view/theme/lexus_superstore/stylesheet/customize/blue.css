@@ -1,0 +1,34 @@
+
+/* customize for body */ 
+body { background-image:url(../../image/pattern/pattern8.png)} 
+
+/* customize for topbar */ 
+
+/* customize for header-main */ 
+#header-main { background-image:url(../../image/pattern/pattern8.png)} 
+
+/* customize for pav-mainnav */ 
+.pav-megamenu .navbar-default { background-color:#0053a0} 
+.pav-megamenu .navbar-default { background-image:url(../../image/pattern/pattern8.png)} 
+
+/* customize for columns */ 
+#columns .content-top .box .box-heading span, .product-related .box-heading span { color:#ffffff} 
+
+/* customize for pav-verticalmenu */ 
+#pav-verticalmenu .box-heading { background-color:#0053a0} 
+
+				#pav-verticalmenu .verticalmenu li a:hover
+			 { color:#0053a0} 
+
+				#pav-verticalmenu .box-content
+			 { border-color:#dddddd} 
+
+/* customize for footer-center */ 
+#footer .footer-top .custom { background-color:#0053a0} 
+#footer { background-color:#f1f1f1} 
+#footer { background-image:url(../../image/pattern/pattern8.png)} 
+
+				.social a				
+			 { color:#0053a0} 
+
+/* customize for product */ 

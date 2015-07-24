@@ -1,4 +1,4 @@
 <?php
 // Heading
-$_['heading_title'] = ' Blog Categories';
+$_['heading_title'] = 'Danh mục tin tức';
 ?>

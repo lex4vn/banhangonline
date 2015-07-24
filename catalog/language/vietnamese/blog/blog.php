@@ -1,7 +1,7 @@
 <?php
 // Text
-$_['text_home']            = 'Home';
-$_['text_blog']            = 'Blog';
+$_['text_home']            = 'Trang chủ';
+$_['text_blog']            = 'Tin tức';
 $_['text_error_art']       = 'Blog article is empty!';
 $_['text_error_cat']       = 'Blog category not found!';
 
