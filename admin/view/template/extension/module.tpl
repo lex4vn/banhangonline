@@ -19,18 +19,18 @@
       <table class="list">
         <thead>
           <tr>
-            <td class="left"><?php echo $column_name; ?></td>
-            <td class="right"><?php echo $column_action; ?></td>
+            <td class="left-action"><?php echo $column_action; ?></td>
+            <td class="right-name"><?php echo $column_name; ?></td>
           </tr>
         </thead>
         <tbody>
           <?php if ($extensions) { ?>
           <?php foreach ($extensions as $extension) { ?>
           <tr>
-            <td class="left"><?php echo $extension['name']; ?></td>
-            <td class="right"><?php foreach ($extension['action'] as $action) { ?>
+            <td class="left-action"><?php foreach ($extension['action'] as $action) { ?>
               [ <a href="<?php echo $action['href']; ?>"><?php echo $action['text']; ?></a> ]
               <?php } ?></td>
+            <td class="right-name"><?php echo $extension['name']; ?></td>
           </tr>
           <?php } ?>
           <?php } else { ?>

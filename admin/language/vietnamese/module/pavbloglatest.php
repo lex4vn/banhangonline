@@ -1,6 +1,6 @@
 <?php
 // Heading
-$_['heading_title']       = 'Module bài viết mới nhất';
+$_['heading_title']       = 'PAVModule bài viết mới nhất';
 
 // Text
 $_['text_module']         = 'Modules';
@@ -32,8 +32,8 @@ $_[ 'entry_tabs' ] = 'Product Tab Types';
 $_[ 'entry_description' ] = 'Module Description';
 
 
-$_['text_latest']  = 'Latest'; 
-$_['text_mostviewed']  = 'Most Viewed'; 
+$_['text_latest']  = 'Latest';
+$_['text_mostviewed']  = 'Xem nhiều nhất';
 $_['text_featured']  = 'Featured'; 
 $_['text_bestseller']  = 'Best Seller'; 
 $_['text_special']  = 'Special'; 

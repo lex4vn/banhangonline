@@ -1,6 +1,6 @@
 <?php
 // Heading
-$_['heading_title']       = 'Quản lý danh mục bài viết';
+$_['heading_title']       = 'PAVQuản lý danh mục bài viết';
 
 // Text
 $_['text_module']         = 'Modules';
@@ -32,7 +32,7 @@ $_[ 'entry_description' ] = 'Module Description';
 
 
 $_['text_latest']  = 'Latest'; 
-$_['text_mostviewed']  = 'Most Viewed'; 
+$_['text_mostviewed']  = 'Xem nhiều nhất';
 $_['text_featured']  = 'Featured'; 
 $_['text_bestseller']  = 'Best Seller'; 
 $_['text_special']  = 'Special'; 

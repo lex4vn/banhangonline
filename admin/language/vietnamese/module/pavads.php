@@ -1,22 +1,22 @@
 <?php
 // Heading
 $_['heading_title']        = 'Quản lý banner';
-$_['heading_title_edit'] = 'Edit Banner';
+$_['heading_title_edit'] = 'Chỉnh sửa';
 
 
-$_['heading_title_insert'] = 'Insert Banner';
+$_['heading_title_insert'] = 'Thêm banner';
 
 $_['tab_groups']           = 'Banners Layout';
-$_['tab_module_assign']    = 'Modules Asignment';
-$_['tab_banners']          = 'Management Banners';
+$_['tab_module_assign']    = 'Quản lý module';
+$_['tab_banners']          = 'Quản lý banner';
 
 // Button
-$_['button_save_stay']	   = 'Save & Stay';
-$_['button_add_module']    = 'Add Module';
+$_['button_save_stay']	   = 'Lưu và chỉnh sửa';
+$_['button_add_module']    = 'Thêm module';
 
 $_['tab_module']           = 'Module ';
 
-$_['tab_image']            = 'Image ';
+$_['tab_image']            = 'Hình ảnh ';
 
 // Text
 $_['text_module']          = 'Modules';
@@ -44,7 +44,7 @@ $_['text_add_category']    = 'Add Banner';
 $_['text_image_manager']   = 'Managerment Images';
 
 
-$_['prefix_class']         = 'Prefix Class';
+$_['prefix_class']         = 'Tiền tố';
 
 $_['layout_1']             = 'layout 1';
 $_['layout_2']             = 'layout 2';

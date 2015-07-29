@@ -58,8 +58,8 @@ $_['bloglatest_heading_title'] = 'Mới nhất';
 
 // Text
 $_['text_latest']  = 'Tin mới nhất';
-$_['text_mostviewed']  = 'Most Viewed'; 
-$_['text_featured']  = 'Featured'; 
+$_['text_mostviewed']  = 'Tin xem nhiều';
+$_['text_featured']  = 'Tin nổi bật';
 $_['text_bestseller']  = 'Best Seller'; 
 $_['entry_show_readmore'] = 'Hiển thị thêm' ;
 $_['text_readmore'] = 'Đọc tiếp' ;

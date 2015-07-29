@@ -8,7 +8,7 @@
 *******************************************************/
 
 // Heading
-$_['heading_title']       = 'Quản lý bài viết';
+$_['heading_title']       = 'PAVQuản lý bài viết';
 
 // Text
 $_['text_treemenu']     = 'Tree Category Management';

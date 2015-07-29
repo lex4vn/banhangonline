@@ -2,15 +2,26 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7179c442-aaf3-46d4-b024-bec163a9f84e" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/catalog/language/vietnamese/module/pavblog.php" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\banhang\system\cache\cache.currency.1437499618" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\banhang\system\cache\cache.language.1437497763" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\banhang\system\cache\cache.product.bestseller.6.0.1.16.1437496581" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\banhang\system\cache\cache.store.1437499732" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catalog/language/vietnamese/blog/blog.php" afterPath="$PROJECT_DIR$/catalog/language/vietnamese/blog/blog.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catalog/language/vietnamese/module/blogcategory.php" afterPath="$PROJECT_DIR$/catalog/language/vietnamese/module/blogcategory.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catalog/language/vietnamese/module/blogcomment.php" afterPath="$PROJECT_DIR$/catalog/language/vietnamese/module/blogcomment.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catalog/view/theme/lexus_superstore/stylesheet/cyan/stylesheet.css" afterPath="$PROJECT_DIR$/catalog/view/theme/lexus_superstore/stylesheet/cyan/stylesheet.css" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\banhang\system\cache\cache.currency.1437753869" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\banhang\system\cache\cache.information.6.1437753885" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\banhang\system\cache\cache.language.1437755534" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\banhang\system\cache\cache.product.bestseller.6.0.1.16.1437755534" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\banhang\system\cache\cache.store.1437756161" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.htaccess" afterPath="$PROJECT_DIR$/.htaccess" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catalog/view/theme/lexus_superstore/template/common/head_inside.tpl" afterPath="$PROJECT_DIR$/catalog/view/theme/lexus_superstore/template/common/head_inside.tpl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/admin/language/vietnamese/catalog/information.php" afterPath="$PROJECT_DIR$/admin/language/vietnamese/catalog/information.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/admin/view/template/extension/module.tpl" afterPath="$PROJECT_DIR$/admin/view/template/extension/module.tpl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/admin/language/vietnamese/module/pavads.php" afterPath="$PROJECT_DIR$/admin/language/vietnamese/module/pavads.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/admin/language/vietnamese/module/pavblog.php" afterPath="$PROJECT_DIR$/admin/language/vietnamese/module/pavblog.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catalog/language/vietnamese/module/pavblog.php" afterPath="$PROJECT_DIR$/catalog/language/vietnamese/module/pavblog.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/admin/language/vietnamese/module/pavblogcategory.php" afterPath="$PROJECT_DIR$/admin/language/vietnamese/module/pavblogcategory.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/admin/language/vietnamese/module/pavblogcomment.php" afterPath="$PROJECT_DIR$/admin/language/vietnamese/module/pavblogcomment.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/admin/language/vietnamese/module/pavbloglatest.php" afterPath="$PROJECT_DIR$/admin/language/vietnamese/module/pavbloglatest.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/admin/language/vietnamese/module/pavcustom.php" afterPath="$PROJECT_DIR$/admin/language/vietnamese/module/pavcustom.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/admin/language/vietnamese/module/pavmegamenu.php" afterPath="$PROJECT_DIR$/admin/language/vietnamese/module/pavmegamenu.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/admin/language/vietnamese/module/pavproducttabs.php" afterPath="$PROJECT_DIR$/admin/language/vietnamese/module/pavproducttabs.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/admin/language/vietnamese/module/pavverticalmenu.php" afterPath="$PROJECT_DIR$/admin/language/vietnamese/module/pavverticalmenu.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/admin/view/stylesheet/stylesheet.css" afterPath="$PROJECT_DIR$/admin/view/stylesheet/stylesheet.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="banhang.iws" />
@@ -34,111 +45,99 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="head_inside.tpl" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/catalog/view/theme/lexus_superstore/template/common/head_inside.tpl">
+      <file leaf-file-name="pavblog.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/admin/language/vietnamese/module/pavblog.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="187">
+            <state line="10" column="30" selection-start="417" selection-end="417" vertical-scroll-proportion="-1.3333334" vertical-offset="0" max-vertical-offset="4063">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="stylesheet.css" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/catalog/view/theme/lexus_superstore/stylesheet/cyan/stylesheet.css">
+      <file leaf-file-name="pavproducttabs.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/admin/language/vietnamese/module/pavproducttabs.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="2063" column="0" selection-start="38940" selection-end="38940" vertical-scroll-proportion="0.2769486" vertical-offset="34904" max-vertical-offset="87380">
+            <state line="2" column="33" selection-start="50" selection-end="50" vertical-scroll-proportion="-1.3076923" vertical-offset="0" max-vertical-offset="867">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pavnewsletter.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/admin/language/vietnamese/module/pavnewsletter.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="3128">
+              <folding>
+                <marker date="1429375054000" expanded="true" signature="5887:6170" placeholder="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pavbloglatest.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/admin/language/vietnamese/module/pavbloglatest.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="2" column="32" selection-start="49" selection-end="49" vertical-scroll-proportion="-1.3076923" vertical-offset="0" max-vertical-offset="884">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pavblogcomment.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/admin/language/vietnamese/module/pavblogcomment.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="2" column="32" selection-start="49" selection-end="49" vertical-scroll-proportion="-1.3076923" vertical-offset="0" max-vertical-offset="867">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pavblog.php" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/catalog/language/vietnamese/module/pavblog.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="61" column="35" selection-start="1727" selection-end="1727" vertical-scroll-proportion="0.70740104" vertical-offset="626" max-vertical-offset="1207">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="blogcategory.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/catalog/language/vietnamese/module/blogcategory.php">
+        <entry file="file://$PROJECT_DIR$/admin/language/vietnamese/module/blogcategory.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="2" column="39" selection-start="56" selection-end="56" vertical-scroll-proportion="-1.3076923" vertical-offset="0" max-vertical-offset="153">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="blog.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/catalog/language/vietnamese/blog/blog.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="37" selection-start="93" selection-end="93" vertical-scroll-proportion="33.346153" vertical-offset="918" max-vertical-offset="1547">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="category.tpl" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/catalog/view/theme/lexus_superstore/template/pavblog/category.tpl">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="1683">
+            <state line="5" column="7" selection-start="182" selection-end="182" vertical-scroll-proportion="-3.2692308" vertical-offset="0" max-vertical-offset="561">
               <folding>
-                <marker date="1429375055000" expanded="true" signature="254:3484" placeholder="..." />
-                <marker date="1429375055000" expanded="true" signature="272:3478" placeholder="..." />
-                <marker date="1429375055000" expanded="true" signature="396:438" placeholder="..." />
-                <marker date="1429375055000" expanded="true" signature="556:3280" placeholder="..." />
-                <marker date="1429375055000" expanded="true" signature="577:3268" placeholder="..." />
-                <marker date="1429375055000" expanded="true" signature="639:795" placeholder="..." />
-                <marker date="1429375055000" expanded="true" signature="852:3221" placeholder="..." />
-                <marker date="1429375055000" expanded="true" signature="932:1964" placeholder="..." />
-                <marker date="1429375055000" expanded="true" signature="1035:1953" placeholder="..." />
-                <marker date="1429375055000" expanded="true" signature="1275:1823" placeholder="..." />
-                <marker date="1429375055000" expanded="true" signature="1312:1809" placeholder="..." />
-                <marker date="1429375055000" expanded="true" signature="1545:1674" placeholder="..." />
-                <marker date="1429375055000" expanded="true" signature="1733:1794" placeholder="..." />
-                <marker date="1429375055000" expanded="true" signature="2011:3207" placeholder="..." />
-                <marker date="1429375055000" expanded="true" signature="2153:2521" placeholder="..." />
-                <marker date="1429375055000" expanded="true" signature="2335:2389" placeholder="..." />
-                <marker date="1429375055000" expanded="true" signature="2684:3060" placeholder="..." />
-                <marker date="1429375055000" expanded="true" signature="2874:2928" placeholder="..." />
-                <marker date="1429375055000" expanded="true" signature="3406:3450" placeholder="..." />
+                <marker date="1429375054000" expanded="true" signature="60:92" placeholder="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="pavblog.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/catalog/language/english/module/pavblog.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="13.730769" vertical-offset="357" max-vertical-offset="1190">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="pavblog.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/catalog/language/vietnamese/module/pavblog.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="19" column="32" selection-start="593" selection-end="593" vertical-scroll-proportion="-10.461538" vertical-offset="51" max-vertical-offset="1207">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="blogcomment.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/catalog/language/vietnamese/module/blogcomment.php">
+        <entry file="file://$PROJECT_DIR$/admin/language/vietnamese/module/blogcomment.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="1" column="35" selection-start="41" selection-end="41" vertical-scroll-proportion="-0.65384614" vertical-offset="0" max-vertical-offset="170">
-              <folding />
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="595">
+              <folding>
+                <marker date="1429375054000" expanded="false" signature="60:92" placeholder="..." />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="blogpopular.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/catalog/language/vietnamese/module/blogpopular.php">
+        <entry file="file://$PROJECT_DIR$/admin/language/vietnamese/module/blogpopular.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="136">
-              <folding />
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="1.8461539" vertical-offset="48" max-vertical-offset="629">
+              <folding>
+                <marker date="1429375054000" expanded="false" signature="60:92" placeholder="..." />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="1428775053.json" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/catalog/view/theme/lexus_superstore/stylesheet/customize/1428775053.json">
+      <file leaf-file-name="pavcustom.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/admin/language/vietnamese/module/pavcustom.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="102">
+            <state line="2" column="32" selection-start="49" selection-end="49" vertical-scroll-proportion="-0.6666667" vertical-offset="0" max-vertical-offset="816">
               <folding />
             </state>
           </provider>
@@ -161,15 +160,30 @@
         <option value="$PROJECT_DIR$/catalog/language/vietnamese/module/blogcategory.php" />
         <option value="$PROJECT_DIR$/catalog/language/vietnamese/module/blogcomment.php" />
         <option value="$PROJECT_DIR$/catalog/language/vietnamese/blog/blog.php" />
-        <option value="$PROJECT_DIR$/catalog/language/vietnamese/module/pavblog.php" />
+        <option value="$PROJECT_DIR$/catalog/view/theme/lexus_superstore/template/common/head_inside.tpl" />
         <option value="$PROJECT_DIR$/catalog/view/theme/lexus_superstore/stylesheet/cyan/stylesheet.css" />
+        <option value="$PROJECT_DIR$/admin/language/vietnamese/catalog/information.php" />
+        <option value="$PROJECT_DIR$/admin/language/vietnamese/module/pavverticalmenu.php" />
+        <option value="$PROJECT_DIR$/admin/language/vietnamese/module/pavmegamenu.php" />
+        <option value="$PROJECT_DIR$/admin/language/english/module/pavmegamenu.php" />
+        <option value="$PROJECT_DIR$/.htaccess" />
+        <option value="$PROJECT_DIR$/admin/language/vietnamese/module/pavads.php" />
+        <option value="$PROJECT_DIR$/admin/view/template/extension/module.tpl" />
+        <option value="$PROJECT_DIR$/admin/view/stylesheet/stylesheet.css" />
+        <option value="$PROJECT_DIR$/admin/language/vietnamese/module/pavcustom.php" />
+        <option value="$PROJECT_DIR$/admin/language/vietnamese/module/pavbloglatest.php" />
+        <option value="$PROJECT_DIR$/admin/language/vietnamese/module/pavblogcomment.php" />
+        <option value="$PROJECT_DIR$/admin/language/vietnamese/module/pavblogcategory.php" />
+        <option value="$PROJECT_DIR$/admin/language/vietnamese/module/pavblog.php" />
+        <option value="$PROJECT_DIR$/admin/language/vietnamese/module/pavproducttabs.php" />
+        <option value="$PROJECT_DIR$/catalog/language/vietnamese/module/pavblog.php" />
       </list>
     </option>
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="-193" />
-    <option name="y" value="55" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
     <option name="width" value="1320" />
     <option name="height" value="784" />
   </component>
@@ -199,7 +213,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -231,136 +244,6 @@
               <option name="myItemId" value="catalog" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="view" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="theme" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lexus_superstore" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="template" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="banhang" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="banhang" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="catalog" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="view" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="theme" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lexus_superstore" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="template" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="pavblog" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="banhang" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="banhang" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="catalog" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="view" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="theme" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lexus_superstore" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="banhang" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="banhang" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="catalog" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="view" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="theme" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="banhang" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="banhang" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="catalog" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="view" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="banhang" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="banhang" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="catalog" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -428,11 +311,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="vietnamese" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="blog" />
+              <option name="myItemId" value="english" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -457,6 +336,10 @@
               <option name="myItemId" value="english" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="module" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -468,7 +351,65 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="catalog" />
+              <option name="myItemId" value="admin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="banhang" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="banhang" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="admin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="language" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="vietnamese" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="banhang" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="banhang" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="admin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="language" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="english" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="banhang" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="banhang" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="admin" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -486,6 +427,7 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -498,6 +440,19 @@
     </key>
   </component>
   <component name="RunManager">
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug" singleton="true">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server">
+      <method />
+    </configuration>
     <list size="0" />
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
@@ -527,7 +482,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-193" y="55" width="1320" height="784" extended-state="0" />
+    <frame x="-8" y="-8" width="1320" height="784" extended-state="6" />
     <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -543,11 +498,11 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -567,20 +522,104 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/catalog/view/theme/lexus_superstore/template/common/header.tpl">
+    <entry file="file://$PROJECT_DIR$/catalog/view/theme/lexus_superstore/template/common/head_inside.tpl">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="154" column="0" selection-start="7065" selection-end="7065" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="7446">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="187">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/catalog/view/theme/lexus_superstore/stylesheet/cyan/stylesheet.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2063" column="0" selection-start="38940" selection-end="38940" vertical-scroll-proportion="0.0" vertical-offset="34904" max-vertical-offset="87380">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/catalog/language/vietnamese/module/blogcategory.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="39" selection-start="56" selection-end="56" vertical-scroll-proportion="0.0" vertical-offset="34" max-vertical-offset="153">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/catalog/language/vietnamese/blog/blog.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="37" selection-start="93" selection-end="93" vertical-scroll-proportion="0.0" vertical-offset="918" max-vertical-offset="1547">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/catalog/view/theme/lexus_superstore/template/pavblog/category.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1683">
           <folding>
-            <marker date="1437496046148" expanded="false" signature="-1:-1" placeholder="..." />
+            <marker date="1429375055000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1429375055000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1429375055000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1429375055000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1429375055000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1429375055000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1429375055000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1429375055000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1429375055000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1429375055000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1429375055000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1429375055000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1429375055000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1429375055000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1429375055000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1429375055000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1429375055000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1429375055000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1429375055000" expanded="true" signature="-1:-1" placeholder="..." />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/catalog/view/theme/lexus_superstore/stylesheet/customize/1428775053.css">
+    <entry file="file://$PROJECT_DIR$/catalog/language/english/module/pavblog.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="374">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="357" max-vertical-offset="1190">
           <folding />
         </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/catalog/language/vietnamese/module/pavblog.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="32" selection-start="593" selection-end="593" vertical-scroll-proportion="0.0" vertical-offset="51" max-vertical-offset="1207">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/catalog/language/vietnamese/module/blogcomment.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="35" selection-start="41" selection-end="41" vertical-scroll-proportion="0.0" vertical-offset="17" max-vertical-offset="170">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/catalog/language/vietnamese/module/blogpopular.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="136">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/catalog/view/theme/lexus_superstore/stylesheet/customize/1428775053.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="102">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/catalog/view/theme/lexus_superstore/template/common/header.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="154" column="0" selection-start="7065" selection-end="7065" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="7446" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/catalog/view/theme/lexus_superstore/stylesheet/customize/1428775053.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="374" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/catalog/view/theme/lexus_superstore/stylesheet/customize/1437415331.css">
@@ -606,9 +645,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/catalog/view/theme/lexus_superstore/stylesheet/customize/1428775053.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="649">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="649" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/catalog/view/theme/lexus_superstore/stylesheet/customize/1437415331.css">
@@ -618,25 +655,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/catalog/view/theme/lexus_superstore/template/common/head_inside.tpl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="649">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/catalog/view/theme/lexus_superstore/template/common/header.tpl">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="7446">
-          <folding>
-            <marker date="1437496046148" expanded="false" signature="-1:-1" placeholder="..." />
-          </folding>
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="7446" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/catalog/language/vietnamese/module/blogcomment.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="35" selection-start="41" selection-end="41" vertical-scroll-proportion="-0.65384614" vertical-offset="0" max-vertical-offset="170">
+        <state line="1" column="35" selection-start="41" selection-end="41" vertical-scroll-proportion="0.0" vertical-offset="17" max-vertical-offset="170">
           <folding />
         </state>
       </provider>
@@ -652,60 +678,239 @@
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1683">
           <folding>
-            <marker date="1429375055000" expanded="true" signature="254:3484" placeholder="..." />
-            <marker date="1429375055000" expanded="true" signature="272:3478" placeholder="..." />
-            <marker date="1429375055000" expanded="true" signature="396:438" placeholder="..." />
-            <marker date="1429375055000" expanded="true" signature="556:3280" placeholder="..." />
-            <marker date="1429375055000" expanded="true" signature="577:3268" placeholder="..." />
-            <marker date="1429375055000" expanded="true" signature="639:795" placeholder="..." />
-            <marker date="1429375055000" expanded="true" signature="852:3221" placeholder="..." />
-            <marker date="1429375055000" expanded="true" signature="932:1964" placeholder="..." />
-            <marker date="1429375055000" expanded="true" signature="1035:1953" placeholder="..." />
-            <marker date="1429375055000" expanded="true" signature="1275:1823" placeholder="..." />
-            <marker date="1429375055000" expanded="true" signature="1312:1809" placeholder="..." />
-            <marker date="1429375055000" expanded="true" signature="1545:1674" placeholder="..." />
-            <marker date="1429375055000" expanded="true" signature="1733:1794" placeholder="..." />
-            <marker date="1429375055000" expanded="true" signature="2011:3207" placeholder="..." />
-            <marker date="1429375055000" expanded="true" signature="2153:2521" placeholder="..." />
-            <marker date="1429375055000" expanded="true" signature="2335:2389" placeholder="..." />
-            <marker date="1429375055000" expanded="true" signature="2684:3060" placeholder="..." />
-            <marker date="1429375055000" expanded="true" signature="2874:2928" placeholder="..." />
-            <marker date="1429375055000" expanded="true" signature="3406:3450" placeholder="..." />
+            <marker date="1429375055000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1429375055000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1429375055000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1429375055000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1429375055000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1429375055000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1429375055000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1429375055000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1429375055000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1429375055000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1429375055000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1429375055000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1429375055000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1429375055000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1429375055000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1429375055000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1429375055000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1429375055000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1429375055000" expanded="true" signature="-1:-1" placeholder="..." />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/catalog/language/english/module/pavblog.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="13.730769" vertical-offset="357" max-vertical-offset="1190">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/catalog/language/vietnamese/module/pavblog.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="32" selection-start="593" selection-end="593" vertical-scroll-proportion="-10.461538" vertical-offset="51" max-vertical-offset="1207">
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/catalog/language/vietnamese/blog/blog.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="37" selection-start="93" selection-end="93" vertical-scroll-proportion="33.346153" vertical-offset="918" max-vertical-offset="1547">
+        <state line="3" column="37" selection-start="93" selection-end="93" vertical-scroll-proportion="0.0" vertical-offset="918" max-vertical-offset="1547">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/catalog/view/theme/lexus_superstore/template/common/head_inside.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="8" selection-start="126" selection-end="126" vertical-scroll-proportion="-3.9230769" vertical-offset="0" max-vertical-offset="204">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/catalog/language/vietnamese/module/blogcategory.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="39" selection-start="56" selection-end="56" vertical-scroll-proportion="-1.3076923" vertical-offset="0" max-vertical-offset="153">
+        <state line="2" column="39" selection-start="56" selection-end="56" vertical-scroll-proportion="0.056478404" vertical-offset="0" max-vertical-offset="602">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/catalog/view/theme/lexus_superstore/stylesheet/cyan/stylesheet.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2063" column="0" selection-start="38940" selection-end="38940" vertical-scroll-proportion="0.2769486" vertical-offset="34904" max-vertical-offset="87380">
+        <state line="2068" column="35" selection-start="39073" selection-end="39073" vertical-scroll-proportion="0.0" vertical-offset="34887" max-vertical-offset="87380">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/language/english/extension/default.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="628">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/language/vietnamese/extension/default.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="628">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/language/english/catalog/information.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="18" column="0" selection-start="611" selection-end="707" vertical-scroll-proportion="-11.769231" vertical-offset="0" max-vertical-offset="646">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/language/vietnamese/catalog/information.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="20" column="75" selection-start="679" selection-end="679" vertical-scroll-proportion="-12.192307" vertical-offset="23" max-vertical-offset="646">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/language/vietnamese/module/pavverticalmenu.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="28" selection-start="419" selection-end="467" vertical-scroll-proportion="-2.6153846" vertical-offset="0" max-vertical-offset="2618">
+          <folding>
+            <marker date="1438185302729" expanded="true" signature="-1:-1" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/language/vietnamese/module/pavmegamenu.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="145" column="54" selection-start="6385" selection-end="6385" vertical-scroll-proportion="-46.333332" vertical-offset="0" max-vertical-offset="2788">
+          <folding>
+            <marker date="1438186097062" expanded="true" signature="-1:-1" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/language/english/module/pavmegamenu.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="162" column="58" selection-start="7211" selection-end="7217" vertical-scroll-proportion="-8.803922" vertical-offset="2305" max-vertical-offset="2890">
+          <folding>
+            <element signature="e#6#374#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.htaccess">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="21" column="21" selection-start="577" selection-end="577" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1003">
+          <folding>
+            <marker date="1438187311121" expanded="true" signature="-1:-1" placeholder="&lt;FilesMatch &quot;\.(tpl|ini|log)&quot;&gt;" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/language/vietnamese/module/pavads.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="46" column="37" selection-start="1552" selection-end="1552" vertical-scroll-proportion="9.153846" vertical-offset="1020" max-vertical-offset="1666">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/view/stylesheet/stylesheet.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="327" column="11" selection-start="6226" selection-end="6231" vertical-scroll-proportion="-8.04" vertical-offset="5358" max-vertical-offset="9758">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/view/template/extension/module.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="26" column="31" selection-start="892" selection-end="903" vertical-scroll-proportion="-10.730769" vertical-offset="163" max-vertical-offset="867">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/language/english/module/pavbloglatest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="35" column="0" selection-start="1299" selection-end="1339" vertical-scroll-proportion="0.49913344" vertical-offset="307" max-vertical-offset="884">
+          <folding>
+            <marker date="1429375054000" expanded="false" signature="-1:-1" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/language/vietnamese/module/pavblogcategory.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="29" selection-start="46" selection-end="49" vertical-scroll-proportion="-1.3076923" vertical-offset="0" max-vertical-offset="867">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/language/vietnamese/module/pavblog.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="30" selection-start="417" selection-end="417" vertical-scroll-proportion="-1.3333334" vertical-offset="0" max-vertical-offset="4063">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/language/vietnamese/module/pavproducttabs.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="33" selection-start="50" selection-end="50" vertical-scroll-proportion="-1.3076923" vertical-offset="0" max-vertical-offset="867">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/language/vietnamese/module/pavnewsletter.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="3128">
+          <folding>
+            <marker date="1429375054000" expanded="true" signature="5887:6170" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/language/vietnamese/module/pavcustom.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="32" selection-start="49" selection-end="49" vertical-scroll-proportion="-0.6666667" vertical-offset="0" max-vertical-offset="816">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/language/vietnamese/module/pavbloglatest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="32" selection-start="49" selection-end="49" vertical-scroll-proportion="-1.3076923" vertical-offset="0" max-vertical-offset="884">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/language/vietnamese/module/pavblogcomment.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="32" selection-start="49" selection-end="49" vertical-scroll-proportion="-1.3076923" vertical-offset="0" max-vertical-offset="867">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/language/vietnamese/module/blogcategory.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="7" selection-start="182" selection-end="182" vertical-scroll-proportion="-3.2692308" vertical-offset="0" max-vertical-offset="561">
+          <folding>
+            <marker date="1429375054000" expanded="true" signature="60:92" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/language/vietnamese/module/blogcomment.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="607">
+          <folding>
+            <marker date="1429375054000" expanded="false" signature="60:92" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/language/vietnamese/module/blogpopular.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="1.8461539" vertical-offset="48" max-vertical-offset="629">
+          <folding>
+            <marker date="1429375054000" expanded="false" signature="60:92" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/catalog/language/english/module/pavblog.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.61445785" vertical-offset="357" max-vertical-offset="1190">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/catalog/language/vietnamese/module/pavblog.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="61" column="35" selection-start="1727" selection-end="1727" vertical-scroll-proportion="0.70740104" vertical-offset="626" max-vertical-offset="1207">
           <folding />
         </state>
       </provider>

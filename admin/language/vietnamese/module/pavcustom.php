@@ -1,6 +1,6 @@
 <?php
 // Heading
-$_['heading_title']       = 'Module tùy chọn';
+$_['heading_title']       = 'PAVModule tùy chọn';
 
 // Text
 $_['text_module']         = 'Modules';

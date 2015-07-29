@@ -1,6 +1,6 @@
 <?php
 // Heading
-$_['heading_title']       = 'Sản phẩm mới - xem nhiều';
+$_['heading_title']       = 'PAV Sản phẩm mới - xem nhiều';
 
 // Text
 $_['text_module']         = 'Modules';

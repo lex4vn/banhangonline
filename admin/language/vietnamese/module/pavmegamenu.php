@@ -8,10 +8,10 @@
 *******************************************************/
 
 // Heading
-$_['heading_title']       = 'Quản lý Menu chính';
+$_['heading_title']       = '<h3 style="color: red">Quản lý Menu chính</h3>';
 
 // Text
-$_['text_treemenu']     = 'Tree Megamenu Management';
+$_['text_treemenu']     = 'Quản lý menu';
  $_['text_menu_assignment'] = 'Module Assignment';
 $_['text_module']         = 'Modules';
 $_['text_success']        = 'Success: You have modified module megamenu!';
@@ -49,8 +49,8 @@ $_['entry_position']      = 'Position:';
 $_['entry_status']        = 'Status:';
 $_['entry_sort_order']    = 'Sort Order:';
 
-$_['entry_store']         = 'Store:';
-$_['entry_filter_store']         = 'Filter Tree Megamenu By Store:';
+$_['entry_store']         = 'Cửa hàng:';
+$_['entry_filter_store']         = 'Cửa hàng:';
 
 
 $_['entry_description']   = 'Description:';
@@ -78,24 +78,24 @@ $_['text_explain_input_html'] = 'If menu content is HTML so all submenu of this 
 $_['text_explain_input_auto'] = 'Type character or word to search';
 $_['text_explain_submenu_cols'] = 'Enter detail width of each subcols in values 1->12.<br>Example: col1=3 col3=5';
 $_['text_explain_submenu_type'] = 'If the type is Menu, so submenus of this will be showed';
-$_['text_browse']   = 'Browser';
+$_['text_browse']   = 'Duyệt';
 $_['text_clear']    = 'Clear';
-$_['entry_publish'] = 'is Published'; 
+$_['entry_publish'] = 'Đăng';
 
 
-$_['button_save_store']     = "Save Store";
-$_['button_save_edit']     = "Save And Edit";
-$_['button_save_new']      = 'Save And Create New';
-$_['button_next']      = 'Next';
+$_['button_save_store']     = "Lưu";
+$_['button_save_edit']     = "Lưu và chỉnh sửa";
+$_['button_save_new']      = 'Lưu và tạo mới';
+$_['button_next']      = 'Tiếp';
 
-$_['tab_manage_widgets']   = 'Manage Widgets';
-$_['tab_manage_megamenus'] = 'Manage Mega Menu Items';
-$_['text_live_edit'] 	   = 'Live Mega Menu Editor';
-$_['text_create_widget']   = 'Create Widget';
-$_['text_widget_name'] 	   = 'Widget Name';
-$_['text_widget_type'] 	   = 'Widget Types';
+$_['tab_manage_widgets']   = 'Quản lý tiện ích';
+$_['tab_manage_megamenus'] = 'Quản lý các mục';
+$_['text_live_edit'] 	   = 'Chỉnh sửa trực tiếp';
+$_['text_create_widget']   = 'Tạo tiện ích';
+$_['text_widget_name'] 	   = 'Tên';
+$_['text_widget_type'] 	   = 'Kiểu';
 
-$_['text_widget_select_one'] 	   = 'Select one';
+$_['text_widget_select_one'] 	   = 'Chọn một';
 
 $_['text_action']      	   = 'Action';
 $_['text_widget_html'] 	   = 'HTML';
@@ -136,10 +136,10 @@ $_['text_widget_image_height'] = 'Height: ';
 $_['text_widget_image_path']  = 'Image Path: ';
 $_['message_update_data_done'] = 'Update Widget Data Successfull';
 ////
-$_['text_heading_live_edit_megamenu'] = 'Live Mega Menu Editor <small> - Easy to make the menu to be great and powerly</small>';
+$_['text_heading_live_edit_megamenu'] = 'Chỉnh sửa trực tiếp <small> - Dễ dàng tạo menu</small>';
 
-$_['text_preview_on_live_site'] = 'Preview On Live Site';
-$_['text_reset_megamenu'] = 'Reset Mega Menu Configuration';
+$_['text_preview_on_live_site'] = 'Xem trước';
+$_['text_reset_megamenu'] = 'Thiết lập lại cấu hình';
 
 $_['text_back'] = 'Back';
 $_['text_create_submenu'] = 'Create Submenu';

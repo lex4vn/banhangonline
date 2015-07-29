@@ -8,7 +8,7 @@
 *******************************************************/
 
 // Heading
-$_['heading_title']       = 'Quản lý Menu trái';
+$_['heading_title']       = '<h3 style="color: red">Quản lý Menu trái</h3>';
 
 // Text
 $_['text_treemenu']     = 'Tree Verticalmenu Management';

@@ -1,6 +1,6 @@
 <?php
 // Heading
-$_['heading_title']       = 'Quản lý nhận xét cho bài viết';
+$_['heading_title']       = 'PAVQuản lý nhận xét cho bài viết';
 
 // Text
 $_['text_module']         = 'Modules';
